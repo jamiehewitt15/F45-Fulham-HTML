@@ -47,6 +47,7 @@
 }
 
 .hero .heading-box p {
+	display: none;
 	font-size: 16px;
 	color: #211551;
 	line-height: 20px;
@@ -60,6 +61,7 @@
 }
 
 .hero .heading-box ul {
+	
 	padding-left: 0;
 	list-style: none;
 	margin: 0 -18px -30px
@@ -359,6 +361,7 @@ html[lang=hr] .hero .heading-box ul li {
 		font-size: 16px
 	}
 	.hero .heading-box ul li:not(.item-hightlight) {
+		display: none;
 		font-size: 16px;
 		background:rgba(255, 255, 255, 0.6)
 	}
@@ -909,6 +912,7 @@ html[lang=sl-SI] .hero .heading-box.heading-box-sm {
 
 @media screen and (max-width:767px) {
 	.hero .heading-box h2 {
+		
 		font-size: 36px;
 		color: white;
 		border: none;
