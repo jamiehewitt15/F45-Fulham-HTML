@@ -61,8 +61,8 @@
 }
 
 .hero .heading-box ul {
+	padding: 30px;
 	
-	padding-left: 0;
 	list-style: none;
 	margin: 0 -18px -30px
 }
