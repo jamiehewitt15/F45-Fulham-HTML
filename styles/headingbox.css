@@ -926,4 +926,9 @@ html[lang=sl-SI] .hero .heading-box.heading-box-sm {
 	}
 }
 }
+@media only screen and (max-width: 800px){
+	.video-table{
+		display: none;
+	}
+}
 
