@@ -13,3 +13,59 @@
     width: 400px;
     margin: 20px;
 }
+#stepByStep{
+    color:#ffffff;
+    font-size:30px;
+    text-align: left;
+    max-width: 700px;
+}
+.stepTitle{
+    max-width:600px;
+    text-align: center; 
+    color: #ffffff; 
+    font-size: 30px;
+    font-family: 'Arial',Arial,sans-serif;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+.stepSubTitle{
+    font-size:20px;width:600px;
+    text-align: center; 
+    color: #ffffff; 
+    font-weight: 300;
+    font-family: 'Arial',Arial,sans-serif;
+    width:500px;
+    margin: auto;
+}
+@media only screen and (max-width: 1000px) {
+    .table{
+        display: block;
+        width: 350px;
+        margin: auto;
+    }
+    .tr{
+        display: block;
+    }
+    .td{
+        display: block;
+    }
+    .gymImg{
+        max-width: 350px;
+        margin: 5px;
+    }
+    #stepByStep{
+        color:#ffffff;
+        font-size:20px;
+        text-align: left;
+        max-width: 350px;
+    }
+    .stepSubTitle{
+        font-size:18px;width:600px;
+        text-align: center; 
+        color: #ffffff; 
+        font-weight: 300;
+        font-family: 'Arial',Arial,sans-serif;
+        width:350px;
+        margin: auto;
+    }
+  }
