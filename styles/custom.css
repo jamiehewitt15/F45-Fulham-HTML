@@ -1,0 +1,15 @@
+.table{
+    display: table;
+    width: 800px;
+    margin: auto;
+}
+.tr{
+    display: table-row;
+}
+.td{
+    display: table-cell;
+}
+.gymImg{
+    width: 400px;
+    margin: 20px;
+}
